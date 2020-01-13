@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value = "cool_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.anne.pokweather.db.Province"/>
+        <mapping class="com.anne.pokweather.db.City"/>
+        <mapping class="com.anne.pokweather.db.County"/>
+    </list>
+</litepal>
